@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+main{
+    display: grid;
+    align-content: stretch;
+    grid-column: auto;
+}
+
+#botones{
+    width: 100px;
+    grid-gap: 6px;
+    display: grid;
+}
